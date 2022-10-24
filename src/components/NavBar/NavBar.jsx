@@ -34,7 +34,7 @@ function NavBar(props) {
           </li>
         </ul>
 
-        <h2>Mi página {props.name}</h2>
+        <h2> {props.name}</h2>
         <CartWidget />
       </div>
     </>

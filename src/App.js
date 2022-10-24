@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <NavBar name="Elisa" />
+        <NavBar name="PrendArte" />
       </header>
       <ItemListContainer />
       <footer></footer>
