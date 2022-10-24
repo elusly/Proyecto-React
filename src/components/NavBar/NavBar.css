@@ -1,0 +1,30 @@
+.NavBar {
+  width: 100%;
+  height: 100px;
+  background-color: #a9edf9;
+  padding-left: 10px;
+  display: flex;
+  text-decoration: none;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.ul {
+  width: 800px;
+  /* background-color: blue; */
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+.NavBar_a {
+  text-decoration: none;
+  color: black;
+  font-size: large;
+}
+
+.NavBar_a:hover {
+  color: yellow;
+}
