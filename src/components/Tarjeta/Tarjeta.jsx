@@ -22,7 +22,7 @@ function Tarjeta({ name, img, price, color }) {
           {" "}
           <h2>{name}</h2>
           <img src={img} alt="" width={200} height={200} />
-          <h4>Precio: {price}</h4>
+          <h4>Precio: ${price}</h4>
           <button>Ver más</button>
         </div>
       </section>

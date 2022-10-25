@@ -19,7 +19,7 @@ function NavBar(props) {
           </li>
           <li>
             <a className="NavBar_a" href="">
-              Envios
+              Favoritos
             </a>
           </li>
           <li>
