@@ -4,4 +4,12 @@
   justify-content: center;
   gap: 10px;
   align-items: center;
+  flex-wrap: wrap;
+}
+.flex {
+  gap: 29px;
+  margin-top: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 280px);
+  grid-template-rows: repeat(6, 400px);
 }
